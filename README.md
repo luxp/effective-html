@@ -8,7 +8,9 @@ HTML(Hypertext Markup Language/超文本标记语言)，Web 最基础的组成�
 
 同时本文不是反对 DIV + CSS 的方式，只是我们有了 CSS 的同时，不应该就忘了 HTML，有一些使用 HTML 是更好的实现方式，下面进入主题：
 
-1. [Effective Table](./01.effective-table.md)
+## 目录
+
+1. [Effective Table](./01.effective-table.md): 重新认识 table
 
 #### License
 
