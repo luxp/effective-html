@@ -9,3 +9,7 @@ HTML(Hypertext Markup Language/超文本标记语言)，Web 最基础的组成�
 同时本文不是反对 DIV + CSS 的方式，只是我们有了 CSS 的同时，不应该就忘了 HTML，有一些使用 HTML 是更好的实现方式，下面进入主题：
 
 1. [Effective Table](./01.effective-table.md)
+
+#### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Effective HTML</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/luxp/effective-html" property="cc:attributionName" rel="cc:attributionURL">Xianpo Lu</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享 署名 4.0 国际 许可协议</a>进行许可。
