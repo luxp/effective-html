@@ -3,6 +3,7 @@
 ## 目录
 
 1. [Table](./01.table.md): 高效地使用 table 元素
+2. [Lists](./01.lists.md): 你不知道的列表用法
 
 #### License
 
