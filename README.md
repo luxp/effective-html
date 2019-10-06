@@ -2,7 +2,7 @@
 
 ## 目录
 
-1. [Effective Table](./01.effective-table.md): 高效地使用 table 元素
+1. [Table](./01.table.md): 高效地使用 table 元素
 
 #### License
 
